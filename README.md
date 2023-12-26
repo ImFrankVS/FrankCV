@@ -1,3 +1,3 @@
-theme: jekyll-theme-Hacker
+`theme: jekyll-theme-minimal`
 # courseta-test
 Cousera test repository
